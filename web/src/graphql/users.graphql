@@ -1,0 +1,8 @@
+# @format
+
+query Users {
+  users {
+    id
+    email
+  }
+}
